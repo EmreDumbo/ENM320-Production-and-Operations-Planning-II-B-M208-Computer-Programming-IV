@@ -30,7 +30,7 @@ This project aims to develop a software application that determines the optimal 
 ### Instructions
 1. *Clone the Repository:*
     bash
-    git clone
+    git clone https://github.com/EmreDumbo/ENM320-Production-and-Operations-Planning-II-B-M208-Computer-Programming-IV.git
     
 
 2.  *Compile the Java Program:*
